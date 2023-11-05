@@ -8,8 +8,8 @@ from langchain.text_splitter import CharacterTextSplitter, RecursiveCharacterTex
 from langchain.vectorstores import Chroma
 from langchain.embeddings import HuggingFaceEmbeddings
 
-huggingfacehub_api_token = "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" 
-# os.environ["HUGGINGFACE_EDU"] # Store the API token in a .env file
+# Replace this with your own Hugging Face API token
+huggingfacehub_api_token = "YOUR_HUGGING_FACE_API_TOKEN"
 
 # Customize the layout
 st.set_page_config(page_title="Document Knowledge Retrieval", page_icon=":book:", layout="wide", )     
