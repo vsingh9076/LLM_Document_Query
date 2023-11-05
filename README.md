@@ -1,5 +1,8 @@
 # Document Knowledge Retrieval
 
+**Note:** An online version of this application is hosted on Streamlit and can be accessed at [Document Query Using LLM](https://document-query-using-llm.streamlit.app/). If you prefer to use the hosted version, you can access it via the provided link.
+
+
 Welcome to Document Knowledge Retrieval, a Python application powered by Streamlit for querying and extracting knowledge from documents. This application enables you to upload documents in either .docx or .txt format and ask questions about their content using pre-trained language models.
 
 ## Prerequisites
