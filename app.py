@@ -9,7 +9,7 @@ from langchain.vectorstores import Chroma
 from langchain.embeddings import HuggingFaceEmbeddings
 
 # Replace this with your own Hugging Face API token
-huggingfacehub_api_token = "YOUR_HUGGING_FACE_API_TOKEN"
+huggingfacehub_api_token = "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"
 
 # Customize the layout
 st.set_page_config(page_title="Document Knowledge Retrieval", page_icon=":book:", layout="wide", )     
